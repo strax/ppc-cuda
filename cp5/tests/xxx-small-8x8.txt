@@ -1,0 +1,2 @@
+timeout 1.8
+random 64 4 0
